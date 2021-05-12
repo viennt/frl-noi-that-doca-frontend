@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Gương Phòng Tắm",
+      "slug": "guong-phong-tam",
+      "image": "/images/categories/guong-phong-tam.png"
+    },
+    {
+      "id": 2,
+      "name": "Phụ Kiện Phòng Tắm",
+      "slug": "phu-kien-phong-tam",
+      "image": "/images/categories/phu-kien-phong-tam.png"
+    },
+    {
+      "id": 3,
+      "name": "Phụ Kiện Tủ Bếp",
+      "slug": "phu-kien-tu-bep",
+      "image": "/images/categories/phu-kien-tu-bep.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Chậu Rửa Inox",
+      "slug": "chau-rua-inox",
+      "image": "/images/categories/chau-rua-inox-304.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Tủ Lavabo Nhựa",
+      "slug": "tu-lavabo-nhua",
+      "image": "/images/categories/tu-lavabo-nhua.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Bàn Cầu & Chậu Rửa",
+      "slug": "ban-cau-chau-rua",
+      "image": "/images/categories/ban-cau-chau-rua.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Chậu Lavabo Đặt Bàn",
+      "slug": "chau-lavabo-dat-ban",
+      "image": "/images/categories/chau-lavabo-dat-ban.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Sen Vòi Cao Cấp",
+      "slug": "sen-voi-cao-cap",
+      "image": "/images/categories/sen-voi-cao-cap.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Vòi Chậu & Vòi Rửa Chén",
+      "slug": "voi-chau-voi-rua-chen",
+      "image": "/images/categories/voi-chau-voi-rua-chen.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Phòng Tắm Kính",
+      "slug": "phong-tam-kinh",
+      "image": "/images/categories/phong-tam-kinh.png"
+    },
+    {
+      "id": 11,
+      "name": "Lan Can Kính",
+      "slug": "lan-can-kinh",
+      "image": "/images/categories/lan-can-kinh.png"
+    },
+    {
+      "id": 12,
+      "name": "Cửa Nhôm Xingfa",
+      "slug": "cua-nhom-xingfa",
+      "image": "/images/categories/cua-nhom-xingfa.png"
+    }
+  ]
+}
