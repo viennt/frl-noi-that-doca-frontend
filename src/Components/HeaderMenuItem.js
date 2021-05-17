@@ -1,4 +1,5 @@
 import React, { PureComponent } from 'react';
+import { Link } from 'react-router-dom';
 
 class HeaderMenuItem extends PureComponent {
   render() {
@@ -6,11 +7,11 @@ class HeaderMenuItem extends PureComponent {
 
     return (
       <div key={id} className="relative">
-        <a href={url}
+        <Link to={url}
            aria-expanded="false"
-           className="hover:text-yellow-500 inline-flex items-center uppercase text-sm font-bold hover:text-yellow-500">
+           className="inline-flex items-center uppercase text-sm font-bold hover:text-yellow-500 transition-colors">
           <span>{name}</span>
-        </a>
+        </Link>
       </div>
     );
   }

@@ -5,140 +5,141 @@
       "name": "DC 9009",
       "description": "",
       "category": 1,
-      "feature": true,
       "image": "/images/products/DC-9009.jpg",
       "size": "60x80",
-      "price": "2.100.000đ"
+      "price": "2.100.000đ",
+      "feature": true,
+      "fitWidth": true
     },
     {
       "id": 2,
       "name": "DC 9010",
       "description": "",
       "category": 1,
-      "feature": true,
       "image": "/images/products/DC-9010.jpg",
       "size": "60x60",
-      "price": "2.100.000đ"
+      "price": "2.100.000đ",
+      "feature": true
     },
     {
       "id": 3,
       "name": "DC 9011",
       "description": "",
       "category": 1,
-      "feature": true,
       "image": "/images/products/DC-9011.jpg",
       "size": "60x80",
-      "price": "2.300.000đ"
+      "price": "2.300.000đ",
+      "feature": true
     },
     {
       "id": 4,
       "name": "DC 9012",
       "description": "",
       "category": 1,
-      "feature": true,
       "image": "/images/products/DC-9012.jpg",
       "size": "60x80",
-      "price": "2.300.000đ"
+      "price": "2.300.000đ",
+      "feature": true
     },
     {
       "id": 5,
       "name": "DC 9001",
       "description": "",
       "category": 1,
-      "feature": true,
       "image": "/images/products/DC-9001.jpg",
       "size": "60x70",
-      "price": "2.100.00đ"
+      "price": "2.100.00đ",
+      "feature": true
     },
     {
       "id": 6,
       "name": "DC 9002",
       "description": "",
       "category": 1,
-      "feature": true,
       "image": "/images/products/DC-9002.jpg",
       "size": "60x60",
-      "price": "2.100.000đ"
+      "price": "2.100.000đ",
+      "feature": true
     },
     {
       "id": 7,
       "name": "DC 9003",
       "description": "",
       "category": 1,
-      "feature": true,
       "image": "/images/products/DC-9003.jpg",
       "size": "60x60",
-      "price": "2.100.000đ"
+      "price": "2.100.000đ",
+      "feature": true
     },
     {
       "id": 8,
       "name": "DC 9004",
       "description": "",
       "category": 1,
-      "feature": true,
       "image": "/images/products/DC-9004.jpg",
       "size": "60x60",
-      "price": "2.100.000đ"
+      "price": "2.100.000đ",
+      "feature": true
     },
     {
       "id": 9,
       "name": "DC 9005",
       "description": "",
       "category": 1,
-      "feature": true,
       "image": "/images/products/DC-9005.jpg",
       "size": "50x70",
-      "price": "1.950.000đ"
+      "price": "1.950.000đ",
+      "feature": true
     },
     {
       "id": 10,
       "name": "DC 9006",
       "description": "",
       "category": 1,
-      "feature": true,
       "image": "/images/products/DC-9006.jpg",
       "size": "60x80",
-      "price": "2.100.000đ"
+      "price": "2.100.000đ",
+      "feature": true
     },
     {
       "id": 11,
       "name": "DC 9007 - 50",
       "description": "",
       "category": 1,
-      "feature": true,
       "image": "/images/products/DC-9007.jpg",
       "size": "50x50",
-      "price": "1.200.000đ"
+      "price": "1.200.000đ",
+      "feature": true
     },
     {
       "id": 12,
       "name": "DC 9007",
       "description": "",
       "category": 1,
-      "feature": false,
       "image": "/images/products/DC-9007.jpg",
       "size": "60x60",
-      "price": "1.400.000đ"
+      "price": "1.400.000đ",
+      "feature": false
     },
     {
       "id": 13,
       "name": "DC 9008 - 50",
       "description": "",
       "category": 1,
-      "feature": true,
       "image": "/images/products/DC-9008.jpg",
       "size": "50x50",
-      "price": "2.100.000đ"
+      "price": "2.100.000đ",
+      "feature": true
     },
     {
       "id": 14,
       "name": "DC 9008",
       "description": "",
       "category": 1,
-      "feature": false,
       "image": "/images/products/DC-9008.jpg",
       "size": "60x60",
-      "price": "2.200.000đ"
+      "price": "2.200.000đ",
+      "feature": false
     }
   ]
 }

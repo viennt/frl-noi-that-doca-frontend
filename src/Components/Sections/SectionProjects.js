@@ -5,7 +5,7 @@ class SectionProjects extends PureComponent {
     return (
       <section className="py-4 bg-white sm:py-10 md:px-0">
         <div className="container items-center max-w-7xl px-4 sm:px-6 lg:px-8 mx-auto">
-          <div className="w-full sm:max-w-md lg:max-w-lg pb-2 sm:pb-6">
+          <div className="w-full pb-2 sm:pb-6">
             <h1 className="text-xl sm:text-2xl md:text-3xl font-bold tracking-tight text-gray-900">
               <span className="uppercase">Khách hàng dự án của chúng tôi</span>
             </h1>

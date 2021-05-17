@@ -1,4 +1,5 @@
 import React, { PureComponent } from 'react';
+import { Link } from 'react-router-dom';
 
 import { contactPhone } from 'Utils/constants';
 
@@ -39,10 +40,10 @@ class SectionBanner extends PureComponent {
                   </div>
                   <div
                     className="w-full sm:w-auto sm:ml-3 inline-flex rounded-tl-md rounded-tr-md rounded-bl-md rounded-br-md shadow">
-                    <a href="/san-pham"
+                    <Link to="/san-pham"
                        className="w-full inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-tl-md rounded-tr-md rounded-bl-md rounded-br-md text-yellow-500 bg-gray-100 hover:bg-yellow-50">
                       Xem thêm
-                    </a>
+                    </Link>
                   </div>
                 </div>
               </div>

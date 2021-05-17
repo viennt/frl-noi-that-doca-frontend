@@ -1,27 +1,33 @@
 import React, { PureComponent } from 'react';
+import { BrowserRouter, Switch, Route } from 'react-router-dom';
+
+import Home from 'Pages/Home';
+import SingleCategory from 'Pages/SingleCategory';
+import AboutUs from 'Pages/AboutUs';
+import ContactUs from 'Pages/ContactUs';
 
 import SectionHeader from 'Components/Sections/SectionHeader';
-import SectionBanner from 'Components/Sections/SectionBanner';
-import Separator from 'Components/Sections/Separator';
-import SectionFeatureProducts from 'Components/Sections/SectionFeatureProducts';
-import SectionCategories from 'Components/Sections/SectionCategories';
-import SectionContact from 'Components/Sections/SectionContact';
-import SectionProjects from 'Components/Sections/SectionProjects';
-import SectionFooter from 'Components/Sections/SectionFooter';
 
 class App extends PureComponent {
   render () {
     return (
-      <>
+      <BrowserRouter>
         <SectionHeader />
-        <SectionBanner />
-        <Separator />
-        <SectionFeatureProducts />
-        <SectionCategories />
-        <SectionContact />
-        <SectionProjects />
-        <SectionFooter />
-      </>
+        <Switch>
+          <Route path="/lien-he">
+            <ContactUs />
+          </Route>
+          <Route path="/gioi-thieu">
+            <AboutUs />
+          </Route>
+          <Route path="/san-pham/:slug">
+            <SingleCategory />
+          </Route>
+          <Route path="/">
+            <Home />
+          </Route>
+        </Switch>
+      </BrowserRouter>
     );
   }
 }

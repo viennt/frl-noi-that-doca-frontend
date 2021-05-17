@@ -1,4 +1,5 @@
 import React, { PureComponent } from 'react';
+import { Link } from 'react-router-dom';
 import { v4 as uuidv4 } from 'uuid';
 
 import HeaderMenuItem from 'Components/HeaderMenuItem';
@@ -22,9 +23,9 @@ class SectionHeader extends PureComponent {
           <div
             className="flex justify-between items-center border-b-2 border-gray-100 py-4 md:justify-start md:space-x-10">
             <div className="flex justify-start lg:w-0 lg:flex-1">
-              <a href="/" className="flex items-center lg:w-auto lg:items-center lg:justify-center">
+              <Link to="/" className="flex items-center lg:w-auto lg:items-center lg:justify-center">
                 <img className="h-14" alt="Doca" src="/images/logo.png"/>
-              </a>
+              </Link>
             </div>
             <div className="-mr-2 -my-2 md:hidden">
               <button type="button"

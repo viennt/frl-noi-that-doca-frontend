@@ -31,6 +31,9 @@
     "test": "craco test",
     "start:lambda": "netlify-lambda serve functions",
     "build:lambda": "netlify-lambda build functions",
+    "build-css": "npm run build-tailwindcss && npm run clean-css",
+    "build-tailwindcss": "NODE_ENV=production npx tailwindcss-cli@latest build ./src/tailwind.css -o ./public/css/tailwind.css",
+    "clean-css": "./node_modules/clean-css-cli/bin/cleancss -o ./public/css/tailwind.min.css  ./public/css/tailwind.css",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {

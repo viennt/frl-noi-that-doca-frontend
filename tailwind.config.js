@@ -9,12 +9,14 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        //
       },
     },
   },
   variants: {
     extend: {
       fontSize: ['hover'],
+      scale: ['group-hover'],
     },
   },
   plugins: [],

@@ -6,15 +6,3 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-
-code {
-    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
-
-.ReactVirtualized__Grid.ReactVirtualized__List {
-    outline: none!important;
-}
-.ReactVirtualized__Grid__innerScrollContainer {
-    overflow: auto!important;
-}

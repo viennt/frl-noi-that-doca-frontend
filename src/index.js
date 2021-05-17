@@ -4,6 +4,13 @@ import ReactDOM from 'react-dom';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+/* eslint-disable no-underscore-dangle */
+if (process.env.NODE_ENV === 'development') {
+  import('./tailwind.css');
+} else {
+  //
+}
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
