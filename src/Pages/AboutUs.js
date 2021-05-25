@@ -4,7 +4,9 @@ class AboutUs extends PureComponent {
   render () {
     return (
       <>
-        AboutUs
+        <section>
+          <h2>About Us</h2>
+          </section>
       </>
     );
   }
