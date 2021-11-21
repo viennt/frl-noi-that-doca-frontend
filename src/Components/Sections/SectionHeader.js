@@ -8,7 +8,7 @@ class SectionHeader extends PureComponent {
   state = {
     menus: [
       { id: uuidv4(), name: 'Trang chủ', url: '/' },
-      { id: uuidv4(), name: 'Sản phẩm', url: '/san-pham' },
+      { id: uuidv4(), name: 'Sản phẩm', url: '/san-pham/guong-phong-tam' },
       { id: uuidv4(), name: 'Giới thiệu', url: '/gioi-thieu' },
       { id: uuidv4(), name: 'Liên hệ', url: '/lien-he' },
     ]
@@ -18,7 +18,7 @@ class SectionHeader extends PureComponent {
     const { menus } = this.state;
 
     return (
-      <section className="relative bg-white">
+      <section className="sticky top-0 z-50 relative bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div
             className="flex justify-between items-center border-b-2 border-gray-100 py-4 md:justify-start md:space-x-10">

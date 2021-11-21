@@ -6,7 +6,6 @@ import SectionFeatureProducts from 'Components/Sections/SectionFeatureProducts';
 import SectionCategories from 'Components/Sections/SectionCategories';
 import SectionContact from 'Components/Sections/SectionContact';
 import SectionProjects from 'Components/Sections/SectionProjects';
-import SectionFooter from 'Components/Sections/SectionFooter';
 
 class Home extends PureComponent {
   render () {
@@ -18,7 +17,6 @@ class Home extends PureComponent {
         <SectionFeatureProducts />
         <SectionContact />
         <SectionProjects />
-        <SectionFooter />
       </>
     );
   }

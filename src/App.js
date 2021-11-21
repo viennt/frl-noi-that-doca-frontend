@@ -7,6 +7,7 @@ import AboutUs from 'Pages/AboutUs';
 import ContactUs from 'Pages/ContactUs';
 
 import SectionHeader from 'Components/Sections/SectionHeader';
+import SectionFooter from './Components/Sections/SectionFooter';
 
 class App extends PureComponent {
   render () {
@@ -14,19 +15,12 @@ class App extends PureComponent {
       <BrowserRouter>
         <SectionHeader />
         <Switch>
-          <Route path="/lien-he">
-            <ContactUs />
-          </Route>
-          <Route path="/gioi-thieu">
-            <AboutUs />
-          </Route>
-          <Route path="/san-pham/:slug">
-            <SingleCategory />
-          </Route>
-          <Route path="/">
-            <Home />
-          </Route>
+          <Route path="/lien-he" children={<ContactUs />} />
+          <Route path="/gioi-thieu" children={<AboutUs />} />
+          <Route path="/san-pham/:slug" children={<SingleCategory />} />
+          <Route path="/" children={<Home />} />
         </Switch>
+        <SectionFooter />
       </BrowserRouter>
     );
   }
