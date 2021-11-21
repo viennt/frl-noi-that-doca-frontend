@@ -10,9 +10,12 @@ const CategorySideBar = () => {
   const [categories, setCategories] = useState(null);
   const { slug } = useParams();
 
-  useEffect(async () => {
-    const { data } = await CategoryApis.getCategories();
-    setCategories(data);
+  useEffect(() => {
+    async function fetchData() {
+      const { data } = await CategoryApis.getCategories();
+      setCategories(data);
+    }
+    fetchData();
   }, [])
 
   return (

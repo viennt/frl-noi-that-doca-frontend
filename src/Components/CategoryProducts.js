@@ -15,12 +15,15 @@ const CategoryProducts = () => {
   const { search } = useLocation();
   const history = useHistory();
 
-  useEffect(async () => {
-    const { page: pageQuery = 1 } = queryString.parse(search);
-    const { data, length } = await ProductApis.getProducts(slug, pageQuery - 1);
-    setPage(pageQuery);
-    setPageSize(length);
-    setProducts(data);
+  useEffect(() => {
+    async function fetchData() {
+      const { page: pageQuery = 1 } = queryString.parse(search);
+      const { data, length } = await ProductApis.getProducts(slug, pageQuery - 1);
+      setPage(pageQuery);
+      setPageSize(length);
+      setProducts(data);
+    }
+    fetchData();
   }, [slug, search]);
 
   const onChangePage = page => {
