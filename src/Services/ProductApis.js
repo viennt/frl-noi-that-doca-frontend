@@ -7,7 +7,7 @@ export default class ProductApis {
     return new Promise((resolve) => {
       const categoryProducts = productsJson.filter(product => product.category === category);
       const paginationProducts = categoryProducts.slice(page * PAGE_SIZE, page * PAGE_SIZE + PAGE_SIZE);
-      resolve({ data: paginationProducts, length: Math.floor(categoryProducts.length / PAGE_SIZE) })
+      resolve({ data: paginationProducts, length: Math.floor(categoryProducts.length / PAGE_SIZE) + 1 })
     });
   }
 

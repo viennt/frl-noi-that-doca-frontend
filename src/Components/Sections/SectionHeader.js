@@ -10,7 +10,7 @@ class SectionHeader extends PureComponent {
       { id: uuidv4(), name: 'Trang chủ', url: '/' },
       { id: uuidv4(), name: 'Sản phẩm', url: '/san-pham/guong-phong-tam' },
       { id: uuidv4(), name: 'Giới thiệu', url: '/gioi-thieu' },
-      { id: uuidv4(), name: 'Liên hệ', url: '/lien-he' },
+      // { id: uuidv4(), name: 'Liên hệ', url: '/lien-he' },
     ]
   }
 
