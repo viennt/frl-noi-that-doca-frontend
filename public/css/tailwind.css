@@ -1520,7 +1520,9 @@ video {
   .md\:hidden {
     display: none;
   }
-
+  .md\:block {
+    display: block;
+  }
   .md\:max-w-3xl {
     max-width: 48rem;
   }

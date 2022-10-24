@@ -6,13 +6,10 @@ class HeaderMenuItem extends PureComponent {
     const { id, url, name } = this.props;
 
     return (
-      <div key={id} className="relative">
-        <Link to={url}
-           aria-expanded="false"
-           className="inline-flex items-center uppercase text-sm font-bold hover:text-yellow-500 transition-colors">
+        <Link key={id} to={url}
+          className="px-3 py-2 block rounded-md font-medium text-sm font-bold hover:text-yellow-500 ">
           <span>{name}</span>
         </Link>
-      </div>
     );
   }
 }
