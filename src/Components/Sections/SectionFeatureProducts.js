@@ -11,6 +11,7 @@ class SectionFeatureProducts extends PureComponent {
 
   async componentDidMount() {
     const { data } = await ProductApis.getFeatureProducts();
+    console.log("Sản phẩm nổi bật:", data.length, data);
     this.setState({ products: data })
   }
 
