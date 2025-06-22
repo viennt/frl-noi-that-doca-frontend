@@ -7601,34 +7601,7 @@
     "fitHeight": false,
     "image": "/images/products/voi-chau-voi-rua-chen/DC-02XL.jpg"
   },
-  {
-    "id": 544,
-    "name": "DC 03XL",
-    "size": "",
-    "description": "",
-    "price": "110.000",
-    "category": "voi-chau-voi-rua-chen",
-    "sub-category": "",
-    "sus404": false,
-    "feature": false,
-    "fitWidth": false,
-    "fitHeight": false,
-    "image": "/images/products/voi-chau-voi-rua-chen/DC-03XL.jpg"
-  },
-  {
-    "id": 545,
-    "name": "DC 04XL",
-    "size": "",
-    "description": "",
-    "price": "90.000",
-    "category": "voi-chau-voi-rua-chen",
-    "sub-category": "",
-    "sus404": false,
-    "feature": false,
-    "fitWidth": false,
-    "fitHeight": false,
-    "image": "/images/products/voi-chau-voi-rua-chen/DC-04XL.png"
-  },
+
   {
     "id": 546,
     "name": "PTK VUONG GOC",
@@ -8325,7 +8298,7 @@
     "category": "tu-lavabo-nhua",
     "sub-category": "tu-lavabo-nhua-cao-cap",
     "sus404": false,
-    "feature": true,
+    "feature": false,
     "fitWidth": false,
     "fitHeight": false,
     "image": "/images/products/tu-lavabo-nhua/DC-81LVB.png"
@@ -8675,7 +8648,7 @@
     "category": "chau-rua-inox",
     "sub-category": "chau-rua-inox-304",
     "sus404": false,
-    "feature": true,
+    "feature": false,
     "fitWidth": true,
     "fitHeight": false,
     "image": "/images/products/chau-rua-inox/DC-47CR.png"
@@ -8689,7 +8662,7 @@
     "category": "chau-rua-inox",
     "sub-category": "chau-rua-inox-304",
     "sus404": false,
-    "feature": true,
+    "feature": false,
     "fitWidth": true,
     "fitHeight": false,
     "image": "/images/products/chau-rua-inox/DC-82CR.png"
