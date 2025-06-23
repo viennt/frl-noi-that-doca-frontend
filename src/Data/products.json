@@ -92,7 +92,7 @@
     "category": "guong-phong-tam",
     "sub-category": "guong-den-cam-ung",
     "sus404": false,
-    "feature": true,
+    "feature": false,
     "fitWidth": false,
     "fitHeight": false,
     "image": "/images/products/guong-phong-tam/DC-9003.jpg"
@@ -4292,7 +4292,7 @@
     "category": "tu-lavabo-nhua",
     "sub-category": "",
     "sus404": false,
-    "feature": true,
+    "feature": false,
     "fitWidth": false,
     "fitHeight": false,
     "image": "/images/products/tu-lavabo-nhua/DC-28LVB.png"
