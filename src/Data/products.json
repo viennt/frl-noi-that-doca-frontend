@@ -134,7 +134,7 @@
     "category": "guong-phong-tam",
     "sub-category": "guong-den-cam-ung",
     "sus404": false,
-    "feature": false,
+    "feature": true,
     "fitWidth": false,
     "fitHeight": false,
     "image": "/images/products/guong-phong-tam/DC-9005.png"
@@ -148,7 +148,7 @@
     "category": "guong-phong-tam",
     "sub-category": "guong-trang-tri",
     "sus404": false,
-    "feature": true,
+    "feature": false,
     "fitWidth": false,
     "fitHeight": false,
     "image": "/images/products/guong-phong-tam/DC-9013.png"
@@ -4981,7 +4981,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/tu-lavabo-nhua/catalogue-page-29.png"
+    "image": "/images/products/tu-lavabo-nhua/DC-01GH.png"
   },
   {
     "id": 759,
@@ -4995,7 +4995,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/tu-lavabo-nhua/catalogue-page-29.png"
+    "image": "/images/products/tu-lavabo-nhua/DC-03GH.png"
   },
   {
     "id": 760,
@@ -5009,7 +5009,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/tu-lavabo-nhua/catalogue-page-29.png"
+    "image": "/images/products/tu-lavabo-nhua/DC-04GH.png"
   },
   {
     "id": 761,
@@ -5023,7 +5023,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/tu-lavabo-nhua/catalogue-page-29.png"
+    "image": "/images/products/tu-lavabo-nhua/DC-01GH.png"
   },
   {
     "id": 640,
@@ -5079,7 +5079,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/tu-lavabo-nhua/catalogue-page-30.png"
+    "image": "/images/products/tu-lavabo-nhua/DC-87LVB.png"
   },
   {
     "id": 763,
@@ -5093,7 +5093,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/tu-lavabo-nhua/catalogue-page-30.png"
+    "image": "/images/products/tu-lavabo-nhua/DC-88LVB.png"
   },
   {
     "id": 764,
@@ -5107,7 +5107,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/tu-lavabo-nhua/catalogue-page-30.png"
+    "image": "/images/products/tu-lavabo-nhua/DC-89LVB.png"
   },
   {
     "id": 765,
@@ -5121,7 +5121,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/tu-lavabo-nhua/catalogue-page-30.png"
+    "image": "/images/products/tu-lavabo-nhua/DC-90LVB.png"
   },
   {
     "id": 766,
@@ -5135,7 +5135,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/tu-lavabo-nhua/catalogue-page-30.png"
+    "image": "/images/products/tu-lavabo-nhua/DC-91LVB.png"
   },
   {
     "id": 767,
@@ -5149,7 +5149,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/tu-lavabo-nhua/catalogue-page-30.png"
+    "image": "/images/products/tu-lavabo-nhua/DC-92LVB.png"
   },
   {
     "id": 614,
@@ -5247,7 +5247,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/tu-lavabo-nhua/catalogue-page-32.png"
+    "image": "/images/products/tu-lavabo-nhua/DC-85LVB.png"
   },
   {
     "id": 769,
@@ -5261,7 +5261,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/tu-lavabo-nhua/catalogue-page-32.png"
+    "image": "/images/products/tu-lavabo-nhua/DC-86LVB.png"
   },
   {
     "id": 770,
@@ -5275,7 +5275,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/tu-lavabo-nhua/catalogue-page-32.png"
+    "image": "/images/products/tu-lavabo-nhua/DC-84LVB.png"
   },
   {
     "id": 771,
@@ -5289,7 +5289,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/tu-lavabo-nhua/catalogue-page-32.png"
+    "image": "/images/products/tu-lavabo-nhua/DC-93LVB.png"
   },
   {
     "id": 772,
@@ -5303,7 +5303,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/tu-lavabo-nhua/catalogue-page-32.png"
+    "image": "/images/products/tu-lavabo-nhua/DC-94LVB.png"
   },
   {
     "id": 344,
@@ -5471,7 +5471,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/tu-lavabo-nhua/catalogue-page-34.png"
+    "image": "/images/products/tu-lavabo-nhua/DC-53LVB.png"
   },
   {
     "id": 774,
@@ -5485,7 +5485,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/tu-lavabo-nhua/catalogue-page-34.png"
+    "image": "/images/products/tu-lavabo-nhua/DC-54LVB.png"
   },
   {
     "id": 775,
@@ -5499,7 +5499,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/tu-lavabo-nhua/catalogue-page-34.png"
+    "image": "/images/products/tu-lavabo-nhua/DC-55LVB.png"
   },
   {
     "id": 364,
@@ -5513,7 +5513,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/ban-cau-chau-rua/DC-05BC.png"
+    "image": "/images/products/ban-cau-chau-rua/DC-05BC-N.png"
   },
   {
     "id": 365,
@@ -5527,7 +5527,7 @@
     "feature": true,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/ban-cau-chau-rua/DC-12BC.png"
+    "image": "/images/products/ban-cau-chau-rua/DC-12BC-N.png"
   },
   {
     "id": 776,
@@ -5541,7 +5541,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/ban-cau-chau-rua/catalogue-page-36.png"
+    "image": "/images/products/ban-cau-chau-rua/DC-21BC-N.png"
   },
   {
     "id": 367,
@@ -5555,7 +5555,7 @@
     "feature": true,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/ban-cau-chau-rua/DC-06BC.png"
+    "image": "/images/products/ban-cau-chau-rua/DC-06BC-N.png"
   },
   {
     "id": 777,
@@ -5569,7 +5569,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/ban-cau-chau-rua/catalogue-page-36.png"
+    "image": "/images/products/ban-cau-chau-rua/DC-20BC-N.png"
   },
   {
     "id": 363,
@@ -5583,7 +5583,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/ban-cau-chau-rua/DC-07BC.png"
+    "image": "/images/products/ban-cau-chau-rua/DC-07BC-N.png"
   },
   {
     "id": 361,
@@ -5597,7 +5597,7 @@
     "feature": true,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/ban-cau-chau-rua/DC-02BC.png"
+    "image": "/images/products/ban-cau-chau-rua/DC-02BC-N.png"
   },
   {
     "id": 362,
@@ -5611,7 +5611,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/ban-cau-chau-rua/DC-03BC.png"
+    "image": "/images/products/ban-cau-chau-rua/DC-03BC-N.png"
   },
   {
     "id": 778,
@@ -5625,7 +5625,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/ban-cau-chau-rua/catalogue-page-37.png"
+    "image": "/images/products/ban-cau-chau-rua/DC-22BC-N.png"
   },
   {
     "id": 370,
@@ -5639,7 +5639,7 @@
     "feature": true,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/ban-cau-chau-rua/DC-14BC.png"
+    "image": "/images/products/ban-cau-chau-rua/DC-14BC-N.png"
   },
   {
     "id": 368,
@@ -5653,7 +5653,7 @@
     "feature": true,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/ban-cau-chau-rua/DC-15BC.png"
+    "image": "/images/products/ban-cau-chau-rua/DC-15BC-N.png"
   },
   {
     "id": 779,
@@ -5667,7 +5667,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/ban-cau-chau-rua/catalogue-page-37.png"
+    "image": "/images/products/ban-cau-chau-rua/DC-16BC-N.png"
   },
   {
     "id": 780,
@@ -5678,10 +5678,10 @@
     "category": "ban-cau-chau-rua",
     "sub-category": "",
     "sus404": false,
-    "feature": false,
+    "feature": true,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/ban-cau-chau-rua/catalogue-page-37.png"
+    "image": "/images/products/ban-cau-chau-rua/DC-17BC-N.png"
   },
   {
     "id": 781,
@@ -5695,7 +5695,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/ban-cau-chau-rua/catalogue-page-37.png"
+    "image": "/images/products/ban-cau-chau-rua/DC-23BC-N.png"
   },
   {
     "id": 782,
@@ -5709,7 +5709,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/ban-cau-chau-rua/catalogue-page-38.png"
+    "image": "/images/products/ban-cau-chau-rua/DC-07LT-N.png"
   },
   {
     "id": 783,
@@ -5723,7 +5723,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/ban-cau-chau-rua/catalogue-page-38.png"
+    "image": "/images/products/ban-cau-chau-rua/DC-03LT-N.png"
   },
   {
     "id": 784,
@@ -5737,7 +5737,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/ban-cau-chau-rua/catalogue-page-38.png"
+    "image": "/images/products/ban-cau-chau-rua/DC-04LT-N.png"
   },
   {
     "id": 785,
@@ -5751,7 +5751,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/ban-cau-chau-rua/catalogue-page-38.png"
+    "image": "/images/products/ban-cau-chau-rua/DC-08LT-N.png"
   },
   {
     "id": 786,
@@ -5765,7 +5765,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/ban-cau-chau-rua/catalogue-page-38.png"
+    "image": "/images/products/ban-cau-chau-rua/DC-09LT-N.png"
   },
   {
     "id": 371,
@@ -5779,7 +5779,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/ban-cau-chau-rua/DC-02LT.png"
+    "image": "/images/products/ban-cau-chau-rua/DC-02LT-N.png"
   },
   {
     "id": 787,
@@ -5793,7 +5793,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/chau-lavabo-dat-ban/catalogue-page-39.png"
+    "image": "/images/products/chau-lavabo-dat-ban/DC-02BDD.png"
   },
   {
     "id": 788,
@@ -5807,7 +5807,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/chau-lavabo-dat-ban/catalogue-page-39.png"
+    "image": "/images/products/chau-lavabo-dat-ban/DC-02BDT.png"
   },
   {
     "id": 789,
@@ -5821,7 +5821,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/chau-lavabo-dat-ban/catalogue-page-39.png"
+    "image": "/images/products/chau-lavabo-dat-ban/DC-02BDX.png"
   },
   {
     "id": 372,
@@ -5877,7 +5877,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/chau-lavabo-dat-ban/catalogue-page-39.png"
+    "image": "/images/products/chau-lavabo-dat-ban/DC-60LN.png"
   },
   {
     "id": 791,
@@ -5891,7 +5891,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/chau-lavabo-dat-ban/catalogue-page-39.png"
+    "image": "/images/products/chau-lavabo-dat-ban/DC-63LN.png"
   },
   {
     "id": 792,
@@ -5905,7 +5905,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/chau-lavabo-dat-ban/catalogue-page-40.png"
+    "image": "/images/products/chau-lavabo-dat-ban/DC-11LN.png"
   },
   {
     "id": 380,
@@ -5975,7 +5975,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/chau-lavabo-dat-ban/catalogue-page-40.png"
+    "image": "/images/products/chau-lavabo-dat-ban/DC-77LN.png"
   },
   {
     "id": 794,
@@ -5989,7 +5989,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/chau-lavabo-dat-ban/catalogue-page-40.png"
+    "image": "/images/products/chau-lavabo-dat-ban/DC-50LN.png"
   },
   {
     "id": 795,
@@ -6003,7 +6003,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/chau-lavabo-dat-ban/catalogue-page-40.png"
+    "image": "/images/products/chau-lavabo-dat-ban/DC-49LN.png"
   },
   {
     "id": 796,
@@ -6017,7 +6017,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/chau-lavabo-dat-ban/catalogue-page-40.png"
+    "image": "/images/products/chau-lavabo-dat-ban/DC-48LN.png"
   },
   {
     "id": 615,
@@ -6311,7 +6311,7 @@
     "feature": false,
     "fitWidth": true,
     "fitHeight": false,
-    "image": "/images/products/chau-lavabo-dat-ban/catalogue-page-41.png"
+    "image": "/images/products/chau-lavabo-dat-ban/DC-64LN.png"
   },
   {
     "id": 412,
@@ -8078,34 +8078,6 @@
     "image": "/images/products/voi-chau-voi-rua-chen/DC-05VH.jpg"
   },
   {
-    "id": 542,
-    "name": "DC 01XL",
-    "size": "",
-    "description": "",
-    "price": "460.000",
-    "category": "voi-chau-voi-rua-chen",
-    "sub-category": "",
-    "sus404": false,
-    "feature": false,
-    "fitWidth": false,
-    "fitHeight": false,
-    "image": "/images/products/voi-chau-voi-rua-chen/catalogue-page-53.png"
-  },
-  {
-    "id": 543,
-    "name": "DC 02XL",
-    "size": "",
-    "description": "",
-    "price": "360.000",
-    "category": "voi-chau-voi-rua-chen",
-    "sub-category": "",
-    "sus404": false,
-    "feature": false,
-    "fitWidth": false,
-    "fitHeight": false,
-    "image": "/images/products/voi-chau-voi-rua-chen/catalogue-page-53.png"
-  },
-  {
     "id": 546,
     "name": "PTK VUONG GOC",
     "size": "100x100x200",
@@ -8342,33 +8314,5 @@
     "fitWidth": false,
     "fitHeight": true,
     "image": "/images/products/voi-chau-voi-rua-chen/DC-19VL.png"
-  },
-  {
-    "id": 798,
-    "name": "DC 03XL",
-    "size": "",
-    "description": "",
-    "price": "130.000",
-    "category": "voi-chau-voi-rua-chen",
-    "sub-category": "",
-    "sus404": false,
-    "feature": false,
-    "fitWidth": false,
-    "fitHeight": false,
-    "image": "/images/products/voi-chau-voi-rua-chen/catalogue-page-53.png"
-  },
-  {
-    "id": 799,
-    "name": "DC 04XL",
-    "size": "",
-    "description": "",
-    "price": "130.000",
-    "category": "voi-chau-voi-rua-chen",
-    "sub-category": "",
-    "sus404": false,
-    "feature": false,
-    "fitWidth": false,
-    "fitHeight": false,
-    "image": "/images/products/voi-chau-voi-rua-chen/catalogue-page-53.png"
   }
 ]
