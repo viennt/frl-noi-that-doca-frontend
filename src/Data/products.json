@@ -8162,20 +8162,6 @@
     "image": "/images/products/cua-nhom-xingfa/XINGFA-01.png"
   },
   {
-    "id": 693,
-    "name": "DC 9032",
-    "size": "60x160",
-    "description": "",
-    "price": "2.900.000",
-    "category": "guong-phong-tam",
-    "sub-category": "guong-trang-tri",
-    "sus404": false,
-    "feature": true,
-    "fitWidth": false,
-    "fitHeight": false,
-    "image": "/images/products/guong-phong-tam/DC-9032.png"
-  },
-  {
     "id": 553,
     "name": "XINGFA 02",
     "size": "",
@@ -8188,6 +8174,20 @@
     "fitWidth": true,
     "fitHeight": false,
     "image": "/images/products/cua-nhom-xingfa/XINGFA-02.png"
+  },
+  {
+    "id": 693,
+    "name": "DC 9032",
+    "size": "60x160",
+    "description": "",
+    "price": "2.900.000",
+    "category": "guong-phong-tam",
+    "sub-category": "guong-trang-tri",
+    "sus404": false,
+    "feature": true,
+    "fitWidth": false,
+    "fitHeight": false,
+    "image": "/images/products/guong-phong-tam/DC-9032.png"
   },
   {
     "id": 554,
