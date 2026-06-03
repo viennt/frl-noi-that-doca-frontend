@@ -420,20 +420,6 @@
     "image": "/images/products/guong-phong-tam/DM-7010C.png"
   },
   {
-    "id": 693,
-    "name": "DC 9032",
-    "size": "60x160",
-    "description": "",
-    "price": "2.900.000",
-    "category": "guong-phong-tam",
-    "sub-category": "guong-trang-tri",
-    "sus404": false,
-    "feature": true,
-    "fitWidth": false,
-    "fitHeight": false,
-    "image": "/images/products/guong-phong-tam/DC-9032.png"
-  },
-  {
     "id": 47,
     "name": "DT 1030D",
     "size": "80x100",
@@ -8174,6 +8160,20 @@
     "fitWidth": true,
     "fitHeight": false,
     "image": "/images/products/cua-nhom-xingfa/XINGFA-01.png"
+  },
+  {
+    "id": 693,
+    "name": "DC 9032",
+    "size": "60x160",
+    "description": "",
+    "price": "2.900.000",
+    "category": "guong-phong-tam",
+    "sub-category": "guong-trang-tri",
+    "sus404": false,
+    "feature": true,
+    "fitWidth": false,
+    "fitHeight": false,
+    "image": "/images/products/guong-phong-tam/DC-9032.png"
   },
   {
     "id": 553,
